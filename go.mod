@@ -11,7 +11,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/ollama/ollama v0.12.6
 	github.com/prometheus/client_golang v1.23.2
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/stretchr/testify v1.11.1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.46.1
 	go.opentelemetry.io/otel v1.38.0
